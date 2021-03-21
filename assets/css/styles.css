@@ -203,7 +203,7 @@ sup {
 }
 
 a {
-  color: #2E7D32;
+  color: #1f1f1f;
   text-decoration: none;
   background-color: transparent;
 }
@@ -520,7 +520,7 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  max-height: 100%;
 }
 
 .img-thumbnail {
