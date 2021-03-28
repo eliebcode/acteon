@@ -98,6 +98,13 @@ body {
   background-color: #fff;
 }
 
+.logo-img{
+  width: 330px;
+  height: 100px;
+  object-fit: cover;
+}
+
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
