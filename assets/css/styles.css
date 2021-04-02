@@ -98,6 +98,10 @@ body {
   background-color: #fff;
 }
 
+.none{
+  display: none;
+}
+
 .logo-img{
   width: 330px;
   height: 100px;

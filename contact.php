@@ -7,7 +7,7 @@
 $from = 'Demo contact form <demo@domain.com>';
 
 // an email address that will receive the email with the output of the form
-$sendTo = 'Demo contact form <demo@domain.com>';
+$sendTo = 'Demo contact form <e.fagot@enseignesacteon.com>';
 
 // subject of the email
 $subject = 'New message from contact form';
@@ -17,10 +17,10 @@ $subject = 'New message from contact form';
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'need' => 'Need', 'email' => 'Email', 'message' => 'Message'); 
 
 // message that will be displayed when everything is OK :)
-$okMessage = 'Contact form successfully submitted. Thank you, I will get back to you soon!';
+$okMessage = 'Message envoyé. Nous reviendrons vers vous dès que possible !';
 
 // If something goes wrong, we will display this message.
-$errorMessage = 'There was an error while submitting the form. Please try again later';
+$errorMessage = 'Erreur. Veuillez réessayer ultérieurement.';
 
 /*
  *  LET'S DO THE SENDING
